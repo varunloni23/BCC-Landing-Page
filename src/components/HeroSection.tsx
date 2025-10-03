@@ -70,7 +70,7 @@ const HeroSection = () => {
             <ShinyButton 
               speed={2} 
               className="bg-white text-black hover:bg-gray-100"
-              onClick={() => window.location.href = 'http://localhost:3001'}
+              onClick={() => window.location.href = 'http://localhost:3000'}
             >
               Explore Blue Carbon
             </ShinyButton>
